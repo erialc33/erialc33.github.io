@@ -165,7 +165,7 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
+  greetings: Hello, welcome to my website! 
   welcome: Welcome
   sample: Sample
 
