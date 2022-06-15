@@ -46,7 +46,7 @@ layout: default
   <div class="row">
     <div class="col-md-12">
       <div class="about-msg">
-        {{ content }}
+        {{ Hello world! }}
       </div>
     </div>
   </div>
