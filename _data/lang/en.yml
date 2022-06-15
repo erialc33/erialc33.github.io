@@ -167,7 +167,8 @@ privacy-policy:
 constants:
   greetings: Hello, welcome to my website! 
   welcome: Welcome
-  sample: I don't know. 
+  sample: Sample
+  intro: Hello I am a passionate in Cognitive Science. I after graduating my highschool in Korea, I studied Biomedical Engineering in Imperial College London. I am currently working as a research intern in SKKU. 
 
 # for cookie consent
 cookie_consent:
