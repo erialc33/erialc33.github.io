@@ -29,7 +29,7 @@ lng_pair: id_links
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+published: false
 
 
 # you can always move this content to _data/content/ folder
@@ -91,4 +91,4 @@ page_data:
       info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
 ---
 
-published: false
+
