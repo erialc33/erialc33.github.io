@@ -36,4 +36,5 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-Hello. 
+My ultimate goal is to discover physical mechanism underlying human cognition. 
+I believe that the secret belies in the common ground of psychology, neuroscience, philosophy and computer science. 
