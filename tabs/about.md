@@ -36,7 +36,7 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-My ultimate goal is to discover physical mechanism underlying human cognition. 
-I believe that the secret belies in the common ground of psychology, neuroscience, philosophy and computer science. 
-After studying Biomedical Engineering in Imperial College London, I am currently working as a research intern in College of Computing and Informatics in SKKU, South Korea. 
-In the meantime I am auditing courses from Interdisciplinary Software Program. 
+My ultimate goal is to discover physical mechanism underlying human cognition.  
+I believe that the secret belies in the common ground of psychology, neuroscience, philosophy and computer science.  
+After studying Biomedical Engineering in Imperial College London, I am currently working as a research intern in College of Computing and Informatics in SKKU, South Korea.  
+In the meantime I am auditing courses from Interdisciplinary Software Program.  
