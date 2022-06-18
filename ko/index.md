@@ -37,4 +37,4 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-안녕하세요! 제 홈페이지에 오신 것을 환영합니다.
+이것저것 관심있는 분야를 공부합니다. 
