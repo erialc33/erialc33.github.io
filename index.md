@@ -37,4 +37,4 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-I am interested in bridging body and mind in the perspective of science and engineering. 
+Bridging body and mind in the perspective of science and engineering. 
