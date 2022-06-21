@@ -5,24 +5,46 @@
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    info: "[더보기]를 눌러 자세한 내용을 볼 수 있습니다."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    #img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
-      color: "gray"
-    - title: "Picture"
-      type: id_picture
-      color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
+    - title: "Research"
+      type: id_research
+      color: "#586fab"
+    - title: "Graphics&Art"
+      type: id_art
+      color: "#eaa18a"
 
   list:
+    # research 1
+    - type: id_research
+      project_name: "fNIRS based suicidal ideation biomarker: A ML approach"
+      project_excerpt: Aim to diagnose suicidal MDD patients. 
+      img: ":project1_thumb.jpg"
+      img_title: "img title1"
+      date: "2022-02-21"
+      post: |
+        # fNIRS based suicidal ideation biomarker: A ML approach
+
+        [Markdown related style]
+    
+    # research 2
+    - type: id_research
+      project_name: "Modelling a scoring scheme for MDD treatment game"
+      project_excerpt: For personalized digital therapeutics.
+      img: ":project1_thumb.jpg"
+      img_title: "img title1"
+      date: "2022-05-17"
+      post: |
+        # Modelling a scoring scheme for MDD treatment game
+
+        [Markdown related style]
+  
+  
     # example
     - type: id_example
       project_name: "Example Project"
