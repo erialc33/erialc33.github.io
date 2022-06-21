@@ -36,7 +36,4 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+저의 궁극적인 목표는 인간의 인지기능 및 감정의 메커니즘을 찾는 것 입니다. 
